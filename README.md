@@ -1,9 +1,9 @@
 <img align="right" src="https://github.com/miniyam/Mobile_assan/assets/99522492/01e1b073-3b14-41c5-a2f8-b29ab72fdfb1">
-<h2 align="center">예술을 사랑하는 개발자 취준생 mini 입니다</h2>
+<h3 align="center">예술을 사랑하는 개발자 취준생 MINI입니다</h3>
 
 </br>
 
--  I’m currently learning <br>**Web developer full-stack(job-guranteed training course) and UXUI**
+-  I’m currently learning <br>**Web developer full-stack(job-guranteed training course), UXUI**
 -  Blog : [https://blog.naver.com/mini-da](https://blog.naver.com/mini-da)
 -  E-mail : **igomin515@gmail.com**
 </br>
