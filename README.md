@@ -1,7 +1,7 @@
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&descAlign=500&section=header&text=Mini&fontAlign=80&color=gradient" width="100%">
 <h3 align="left">예술을 사랑하는 개발자 취준생 MINI입니다</h3>
-<img align="right" src="https://github.com/miniyam/Mobile_assan/assets/99522492/01e1b073-3b14-41c5-a2f8-b29ab72fdfb1" width="350px">
+<img align="right" src="https://github.com/miniyam/Mobile_Q_net/assets/99522492/1666332d-e68a-46d0-aad3-863796731963" width="350px">
 
 
 </br>
