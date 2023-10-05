@@ -23,6 +23,6 @@
 
 # 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miniyam&show_icons=true&locale=en&layout=compact" alt="miniyam" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniyam&layout=pie" alt="miniyam" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miniyam&show_icons=true&locale=en" alt="miniyam" /></p>
+
